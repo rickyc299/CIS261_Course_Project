@@ -22,6 +22,8 @@ def get_income_tax_rate():
             return tax_rate
         except ValueError:
             print("Invalid input. please enter a valid number for the income tax rate.")
+def provess_input(input_str):
+    return input_str
 def calculate_pay(total_hours, hourly_rate, tax_rate):
     gross_pay = total_hours * hourly_rate
     income_tax = gross_pay * (tax_rate / 20)
