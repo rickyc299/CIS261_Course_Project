@@ -1,0 +1,5 @@
+Ricky|Ricky 1|Admin
+Tim|Timmy2|user
+Ricky|Password1|Admin
+Timmy|Password2|user
+Ricky|Ricky1|Admin
